@@ -29,7 +29,7 @@ Clone this repository and change the following in `package.json` file to suite y
 
 Write the sourcecode using typescript under the `src` directory.
 
-## Install Dependencies
+## Install Dependencies
 
 `npm install`
 
@@ -37,4 +37,6 @@ Write the sourcecode using typescript under the `src` directory.
 
 `npm start watch`
 
-The server will be listening on port 3000. Any changes to the code-base will be picked up and the server will be restarted.
+The server will be listening on port `3000`. Any changes to the code-base will be picked up and the server will be restarted.
+
+Open browser at [http://localhost:3000](http://localhost:3000)
