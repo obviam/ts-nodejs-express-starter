@@ -39,4 +39,4 @@ Write the sourcecode using typescript under the `src` directory.
 
 The server will be listening on port `3000`. Any changes to the code-base will be picked up and the server will be restarted.
 
-Open browser at [http://localhost:3000](http://localhost:3000)
+Open browser at [http://localhost:3000/hello](http://localhost:3000/hello)
