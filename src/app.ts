@@ -1,4 +1,3 @@
-import * as helloController from './controllers/hello-controller';
 import * as helloRoutes from './routes/hello-routes';
 import express, { Request, Response } from 'express';
 
