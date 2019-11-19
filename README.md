@@ -35,7 +35,7 @@ Write the sourcecode using typescript under the `src` directory.
 
 ## Running the Development Server
 
-`npm start watch`
+`npm run watch`
 
 The server will be listening on port `3000`. Any changes to the code-base will be picked up and the server will be restarted.
 
