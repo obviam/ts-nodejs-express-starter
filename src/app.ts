@@ -1,4 +1,4 @@
-import * as helloRoutes from './routes/hello-routes';
+import * as helloRoutes from './routes/hello.routes';
 import express, { Request, Response } from 'express';
 
 // controller config
